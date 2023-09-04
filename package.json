@@ -33,7 +33,7 @@
     "opn": "^4.0.2",
     "ora": "^1.1.0",
     "pushbullet": "^2.0.0",
-    "request": "^2.74.0",
+    "request": "^2.88.2",
     "winston": "^2.2.0"
   },
   "engines": {

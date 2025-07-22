@@ -26,14 +26,14 @@
     "currency-formatter": "^1.1.1",
     "homedir": "^0.6.0",
     "inquirer": "^3.0.6",
-    "moment": "^2.14.1",
+    "moment": "^2.29.4",
     "moment-parseformat": "^2.1.4",
-    "node-fetch": "^1.6.0",
-    "node-notifier": "^5.0.2",
+    "node-fetch": "^2.6.7",
+    "node-notifier": "^8.0.1",
     "opn": "^4.0.2",
     "ora": "^1.1.0",
     "pushbullet": "^2.0.0",
-    "request": "^2.74.0",
+    "request": "^2.88.2",
     "winston": "^2.2.0"
   },
   "engines": {
@@ -46,12 +46,12 @@
     "babel-polyfill": "^6.23.0",
     "babel-preset-es2015-node": "^6.1.1",
     "babel-preset-stage-3": "^6.22.0",
-    "eslint": "^3.16.0",
-    "eslint-config-airbnb": "^14.1.0",
+    "eslint": "^9.31.0",
+    "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.2.0",
-    "eslint-plugin-jsx-a11y": "^4.0.0",
-    "eslint-plugin-react": "^6.10.0",
-    "np": "^2.13.1"
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-react": "^7.37.5",
+    "np": "^10.2.0"
   },
   "babel": {
     "presets": [
